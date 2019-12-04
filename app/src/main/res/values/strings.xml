@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jetpack Pro 3</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="fav">Favourite</string>
+    <string name="favmovie">Favourite Movie</string>
+    <string name="favtv">Favourite Tv Show</string>
+    <string name="title">Movie Title :</string>
+    <string name="date">Release Date :</string>
+    <string name="overview">Overview Movie :</string>
+    <string name="tv_title">Tv Show Title :</string>
+    <string name="director">Director Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_movie_detail">Detail Movie</string>
+    <string name="title_activity_detail_tv_show">Detail Tv Show</string>
+    <string name="message_undo">Batalkan Hapus item Sebelumnya</string>
+    <string name="message_ok">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

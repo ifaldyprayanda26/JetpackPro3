@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "poster_path": "https://image.tmdb.org/t/p/w185/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "id": "m01",
+      "original_language": "English",
+      "title": "Joker",
+      "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "release_date": "2019-10-04"
+    },
+    {
+      "poster_path": "https://image.tmdb.org/t/p/w185/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+      "id": "m02",
+      "original_language": "English",
+      "title": "Terminator: Dark Fate",
+      "overview": "More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator – a Rev-9 – travels back through time to hunt and kill her. Dani's survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.",
+      "release_date": "2019-11-01"
+    },
+    {
+      "poster_path": "https://image.tmdb.org/t/p/w185/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg",
+      "id": "m03",
+      "original_language": "English",
+      "title": "Maleficent: Mistress of Evil",
+      "overview": "Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.",
+      "release_date": "2019-10-18"
+    },
+    {
+      "id": "m04",
+      "title": "The Lion King",
+      "release_date": "2019-07-19",
+      "poster_path": "https://image.tmdb.org/t/p/w185/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+      "original_language": "English",
+      "overview": "Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his."
+    },
+    {
+      "id": "m05",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "release_date": "2019-08-02",
+      "poster_path": "https://image.tmdb.org/t/p/w185/kvpNZAQow5es1tSY6XW2jAZuPPG.jpg",
+      "original_language": "English",
+      "overview": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have swapped smacks and bad words. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, both join forces to defeat him. (A spin-off of “The Fate of the Furious,” focusing on Johnson's Luke Hobbs and Statham's Deckard Shaw.)"
+    },
+    {
+      "id": "m06",
+      "title": "Cars",
+      "release_date": "2006-06-09",
+      "poster_path": "https://image.tmdb.org/t/p/w185/jpfkzbIXgKZqCZAkEkFH2VYF63s.jpg",
+      "original_language": "English",
+      "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters."
+    },
+    {
+      "id": "m07",
+      "title": "One Piece: Stampede",
+      "release_date": "2019-10-24",
+      "poster_path": "https://image.tmdb.org/t/p/w185/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg",
+      "original_language": "Japan",
+      "overview": "One Piece: Stampede is a stand-alone film that celebrates the anime's 20th Anniversary and takes place outside the canon of the One Piece TV series. Monkey D. Luffy and his Straw Hat pirate crew are invited to a massive Pirate Festival that brings many of the most iconic characters from throughout the franchise to participate in competition with the Straw Hats to find Roger's treasure. It also pits the Straw Hats against a new enemy named Bullet, a former member of Roger's crew."
+    },
+    {
+      "id": "m08",
+      "title": "Doctor Sleep",
+      "release_date": "2019-11-08",
+      "poster_path": "https://image.tmdb.org/t/p/w185/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "original_language": "English",
+      "overview": "A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to shine. He tries to protect her from the True Knot, a cult whose goal is to feed off of people like them in order to remain immortal."
+    },
+    {
+      "id": "m09",
+      "title": "The King",
+      "release_date": "2019-10-11",
+      "poster_path": "https://image.tmdb.org/t/p/w185/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "original_language": "English",
+      "overview": "England, 15th century. Hal, a capricious prince who lives among the populace far from court, is forced by circumstances to reluctantly accept the throne and become Henry V."
+    },
+    {
+      "id": "m10",
+      "title": "Dark Phoenix",
+      "release_date": "2019-06-07",
+      "poster_path": "https://image.tmdb.org/t/p/w185/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "original_language": "English",
+      "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy."
+    }
+  ]
+}
